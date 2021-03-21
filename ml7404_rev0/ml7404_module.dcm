@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BRCB032GWZ-3
+F https://www.rohm.co.jp/products/memory/serial-eeprom/standard/wlcsp/brcb032gwz-3-product
+$ENDCMP
+#
+$CMP NT2016SA
+F https://www.ndk.com/jp/products/search/crystal/1190853_1442.html
+$ENDCMP
+#
+$CMP SKY13438-374LF
+F https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/1801-1900/SKY13438_374LF_201844B.pdf
+$ENDCMP
+#
+$CMP WFD79C0925FG
+F https://www.ndk.com/jp/products/search/saw/1190057_1480.html
+$ENDCMP
+#
+#End Doc Library

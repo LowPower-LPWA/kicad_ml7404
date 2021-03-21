@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ml7404_module:ML7404 U2
+L ml7404_rev0-rescue:ML7404-ml7404_module U2
 U 1 1 603EE0DE
 P 5200 4050
 F 0 "U2" H 3900 5350 50  0000 L CNN
@@ -619,7 +619,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 2600 2500 2650
 $Comp
-L ml7404_module:NT2016SA TCXO1
+L ml7404_rev0-rescue:NT2016SA-ml7404_module TCXO1
 U 1 1 6047A575
 P 2150 2550
 F 0 "TCXO1" H 2150 2825 50  0000 C CNN
@@ -1239,7 +1239,7 @@ Wire Wire Line
 Wire Wire Line
 	6600 3350 8850 3350
 $Comp
-L ml7404_module:WFD79C0925FG FIL1
+L ml7404_rev0-rescue:WFD79C0925FG-ml7404_module FIL1
 U 1 1 6086EA97
 P 10600 3350
 F 0 "FIL1" H 10600 3665 50  0000 C CNN
@@ -1289,7 +1289,7 @@ F 3 "~" H 12450 3350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L ml7404_module:SKY13438-374LF U1
+L ml7404_rev0-rescue:SKY13438-374LF-ml7404_module U1
 U 1 1 608C51BE
 P 12750 4000
 F 0 "U1" V 12500 3550 50  0000 L CNN
@@ -1414,7 +1414,7 @@ Wire Wire Line
 Wire Wire Line
 	13250 3850 13100 3850
 $Comp
-L ml7404_module:20279-001E-03 CN2
+L ml7404_rev0-rescue:20279-001E-03-ml7404_module CN2
 U 1 1 60AFE26F
 P 13600 5000
 F 0 "CN2" H 13300 4900 50  0000 L CNN
@@ -1525,7 +1525,7 @@ Wire Wire Line
 Wire Wire Line
 	12750 2400 12750 2850
 $Comp
-L ml7404_module:BH33PB1WFV U4
+L ml7404_rev0-rescue:BH33PB1WFV-ml7404_module U4
 U 1 1 60C9CB00
 P 2700 9550
 F 0 "U4" H 2700 10065 50  0000 C CNN
@@ -1909,7 +1909,7 @@ F 3 "" H 1650 7050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ml7404_module:BRCB032GWZ-3 U3
+L ml7404_rev0-rescue:BRCB032GWZ-3-ml7404_module U3
 U 1 1 60E5809E
 P 2700 7750
 F 0 "U3" V 2185 7750 50  0000 C CNN
@@ -1999,7 +1999,7 @@ F 3 "~" H 2150 7400 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L ml7404_module:AM11DP-ST01 ANT1
+L ml7404_rev0-rescue:AM11DP-ST01-ml7404_module ANT1
 U 1 1 604799D4
 P 15150 3500
 F 0 "ANT1" V 15950 3550 50  0000 L CNN
@@ -2010,7 +2010,7 @@ F 3 "https://www.mmc.co.jp/adv/dev/japan/contents/antenna/mhz/am11_3.html" H 151
 	0    1    1    0   
 $EndComp
 $Comp
-L ml7404_module:20549-001E CN1
+L ml7404_rev0-rescue:20549-001E-ml7404_module CN1
 U 1 1 6049F670
 P 13500 3500
 F 0 "CN1" H 13600 4000 50  0000 L CNN
