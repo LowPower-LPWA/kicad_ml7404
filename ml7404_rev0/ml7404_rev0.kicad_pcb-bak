@@ -354,6 +354,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${KIPRJMOD}/3D_model/MHF-SW23_20549-001E.wrl
+      (offset (xyz -1.175 1.225 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (module ml7404_module:SKY13438-374LF (layer F.Cu) (tedit 60555628) (tstamp 604F0E1B)
@@ -555,6 +560,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${KIPRJMOD}/3D_model/ML7404.wrl
+      (offset (xyz -2.55 -2.55 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module ml7404_module:AM11DP-ST01 (layer F.Cu) (tedit 60554CC2) (tstamp 604DB54E)
@@ -588,6 +598,11 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/3D_model/AM11DP-ST01.wrl
+      (offset (xyz 1.5 -5.25 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 -90))
     )
   )
 
@@ -2962,6 +2977,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${KIPRJMOD}/3D_model/RF_Shield_pre.wrl
+      (offset (xyz 13.5 11.5 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (module ml7404_module:terminal (layer F.Cu) (tedit 60555897) (tstamp 60568F0D)
@@ -3443,6 +3463,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model ${KIPRJMOD}/3D_model/MHF1_20279-001E-03.wrl
+      (offset (xyz 1.3 1.3 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (module ml7404_module:BRCB032GWZ-3 (layer F.Cu) (tedit 60555A0A) (tstamp 6057458D)
@@ -3491,6 +3516,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${KIPRJMOD}/3D_model/BRCB032GWZ-3.wrl
+      (offset (xyz -0.75 -0.4 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module ml7404_module:BH18PB1WHFV (layer F.Cu) (tedit 60555010) (tstamp 605745A5)
@@ -3524,6 +3554,11 @@
       (net 8 +3V3))
     (pad 2 smd rect (at 0 0.675 180) (size 0.25 0.35) (layers F.Cu F.Paste F.Mask)
       (net 2 GND) (zone_connect 0))
+    (model ${KIPRJMOD}/3D_model/BH18PB1WHFV.wrl
+      (offset (xyz -0.8 -0.6 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (gr_text N.C. (at 139.7 108.966 -90) (layer B.SilkS) (tstamp 605A19D6)
