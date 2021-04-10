@@ -1,4 +1,4 @@
-19176287134424842
+19187627458771842
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83237,6 +83237,13 @@ varistor SIOV
 2
 2
 ml7404_module
+1500_RF_Shield_soldered_30mmx25mm
+RF_Shield_preliminary
+Shielding Cabinet
+0
+15
+1
+ml7404_module
 AM11DP-ST01
 MMC, ChipANT, 920MHz, 10.5mm x 3.0mm
 antenna rf
@@ -83251,12 +83258,33 @@ LDO, Regulator
 5
 5
 ml7404_module
+BR24GxxNUXxx
+Rohm, EEPROM, VSON008X2030, 3.0mm x 2.0mm, 0.6mm
+
+0
+9
+9
+ml7404_module
 BRCB032GWZ-3
 Rohm, EEPROM, UCSP30L1, 6pin, 1.45mm x 0.77mm, 0.4mm
 EEPROM
 0
 6
 6
+ml7404_module
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+ml7404_module
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
 ml7404_module
 IPEX_20279-001E-03
 IPEX_20279, MHF1, 2.6mm x 2.6mm, DC to 9GHz
@@ -83272,12 +83300,26 @@ RF Connector, Switch
 12
 3
 ml7404_module
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+ml7404_module
 RF_Shield_pre_29.85x24.0mm
 RF_Shield_preliminary
 Shielding Cabinet
 0
-19
+17
 1
+ml7404_module
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
 ml7404_module
 SKY13438-374LF
 SKYWORKS, DPDT Switch, MLPD6pin, 1.5mm x 1.5mm, 0.1 to 6.0GHz
@@ -83292,6 +83334,13 @@ crystal oscillator
 0
 4
 4
+ml7404_module
+UTC_RF_Shield_Clip
+Holland_Shielding, UTC, 4.5mm x 0.7mm
+RF_Shield_Clip
+0
+3
+3
 ml7404_module
 WFD79C0925FG
 NDK, SAW Filter, 5pin, 925.8MHz, 1.4mm x 1.1mm
