@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "ML7404_module"
-Date "2021-04-10"
+Date "2021-05-05"
 Rev "rev.0"
 Comp ""
 Comment1 ""
